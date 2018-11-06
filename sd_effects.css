@@ -6,15 +6,19 @@
    Case Problem 1
    
    Star Dust Stories Design Styles
-   Author: 
-   Date:      
+   Author: Chris Kim
+   Date:   11.06.18   
 
    Filename: sd_effects.css
 
 */
 
 /* HTML Styles */
-
+html {
+    background-image: url('sd_back1.png');
+    width: 100%;
+    background-attachment: fixed;
+}
 
 
 /* Body Styles */
